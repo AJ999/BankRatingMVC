@@ -1,0 +1,1 @@
+C:\git\BankRatingMVC\artifacts\obj\BankRatingMVC\Debug\BankRatingMVC.xprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net452": {
+      "wrappedProject": "../../BankRatingLogic/BankRatingLogic.csproj",
+      "bin": {
+        "assembly": "../../BankRatingLogic/obj/{configuration}/BankRatingLogic.dll",
+        "pdb": "../../BankRatingLogic/obj/{configuration}/BankRatingLogic.pdb"
+      }
+    }
+  }
+}

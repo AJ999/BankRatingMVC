@@ -1,0 +1,5 @@
+C:\git\BankRatingMVC\BankRatingLogic\obj\Debug\BankRatingLogic.csprojResolveAssemblyReference.cache
+C:\git\BankRatingMVC\BankRatingLogic\bin\Debug\BankRatingLogic.dll
+C:\git\BankRatingMVC\BankRatingLogic\bin\Debug\BankRatingLogic.pdb
+C:\git\BankRatingMVC\BankRatingLogic\obj\Debug\BankRatingLogic.dll
+C:\git\BankRatingMVC\BankRatingLogic\obj\Debug\BankRatingLogic.pdb

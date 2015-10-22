@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "BankRatingMVC"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-BankRatingMVC-0c59f9c2-ef2c-4236-9761-306440bba1d3;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
