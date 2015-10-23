@@ -57,3 +57,5 @@ C:\git\BankRatingMVC\BankRateMVC.Tests\bin\Debug\Castle.Core.xml
 C:\git\BankRatingMVC\BankRateMVC.Tests\obj\Debug\BankRateMVC.Tests.csprojResolveAssemblyReference.cache
 C:\git\BankRatingMVC\BankRateMVC.Tests\obj\Debug\BankRateMVC.Tests.dll
 C:\git\BankRatingMVC\BankRateMVC.Tests\obj\Debug\BankRateMVC.Tests.pdb
+C:\git\BankRatingMVC\BankRateMVC.Tests\bin\Debug\BankRatingLogic.dll
+C:\git\BankRatingMVC\BankRateMVC.Tests\bin\Debug\BankRatingLogic.pdb

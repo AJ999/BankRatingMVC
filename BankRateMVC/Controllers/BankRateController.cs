@@ -27,11 +27,11 @@ namespace BankRateMVC.Controllers
         [HttpPost]
         public ActionResult Rate(RatingInputs inputs)
         {
-            
-                // TODO: Add insert logic here
-                decimal result = bankRater.Rate(inputs.Input1, inputs.Input2, inputs.Input3, inputs.Input4, inputs.Input5, inputs.Input6, inputs.Input7, inputs.Input8, inputs.Input9, inputs.Input10);
-                return View(result);
-           
+
+            // TODO: Add insert logic here
+            decimal result = bankRater.Rate(inputs.CompanyID, inputs.AnalystID, inputs.Date, inputs.ManagementAndGovernanceOne, inputs.ManagementAndGovernanceTwo, inputs.ManagementAndGovernanceThree, inputs.ManagementAndGovernanceFour, inputs.ManagementAndGovernanceFive, inputs.FinancialPositionOne, inputs.FinancialPositionTwo, inputs.FinancialPositionThree, inputs.FinancialPositionFour, inputs.CapitalPositionOne, inputs.CapitalPositionTwo, inputs.CapitalPositionThree, inputs.JurisdictionalDomicileFactorsOne, inputs.JurisdictionalDomicileFactorsTwo, inputs.JurisdictionalDomicileFactorsThree, inputs.JurisdictionalDomicileFactorsFour);
+            return View(result);
+
         }
 
     }

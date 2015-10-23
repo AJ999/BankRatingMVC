@@ -21,7 +21,7 @@ namespace BankRatingLogic
         /// <param name="input8"></param>
         /// <param name="input9"></param>
         /// <param name="input10"></param>
-        public decimal Rate(decimal input1, decimal input2, decimal input3, decimal input4, decimal input5, decimal input6, decimal input7, decimal input8, decimal input9, decimal input10)
+        public decimal Rate(int CompanyID, int AnalystID, DateTime Date, int ManagementAndGovernanceOne, int ManagementAndGovernanceTwo, int ManagementAndGovernanceThree, int ManagementAndGovernanceFour, int ManagementAndGovernanceFive, int FinancialPositionOne, int FinancialPositionTwo, int FinancialPositionThree, int FinancialPositionFour, int CapitalPositionOne, int CapitalPositionTwo, int CapitalPositionThree, int JurisdictionalDomicileFactorsOne, int JurisdictionalDomicileFactorsTwo, int JurisdictionalDomicileFactorsThree, int JurisdictionalDomicileFactorsFour)
         {
 
             return 1.0m;
